@@ -20,5 +20,10 @@
         android:id="@+id/mPesquisar"
         android:icon="@drawable/ic_baseline_search"
         android:title="Pesquisar" />
+    <item
+        android:id="@+id/mVoltar"
+        android:icon="@drawable/ic_baseline_arrow_back"
+        android:title="Voltar"/>
+
 
 </menu>

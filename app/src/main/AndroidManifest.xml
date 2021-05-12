@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjetoPAM">
+        <activity android:name=".Perfil_activity" android:theme="@style/TemaSemBarra"></activity>
         <activity
             android:name=".Splash_Activity"
             android:theme="@style/TemaSemBarra">
